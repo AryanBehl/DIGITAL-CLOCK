@@ -6,7 +6,7 @@ body {
   align-items: center;
   height: 100vh;
   background: #111;
-  color: white;
+  color: red;
 }
 
 .clock-container {
