@@ -35,32 +35,6 @@ It displays the **current time and date in real-time**, updating every second.
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone the repository
-
-```id="k1e3f9"
-git clone https://github.com/your-username/digital-clock.git
-```
-
-2. Open the project folder
-
-3. Run the app
-   👉 Open `index.html` in your browser
-
----
-
-## 📸 Preview
-
-(Add your screenshot here)
-
----
-
-## 🌐 Live Demo
-
-(Add your GitHub Pages link here)
-
----
 
 ## ⚙️ How It Works
 
